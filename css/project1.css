@@ -96,15 +96,11 @@
         	min-height: 52px;
         	width: 17%;
         	float: left;
-        	background-color: none;
         	overflow: hidden;
-        	margin-left: none;
-        	margin-top: none;
         }
         .subscribe {
         	min-height: 53px;
         	width: 6.5%;
-        	background-color: none;
         	color: #485766;
         	margin-left: 5%;
         	margin-top: 0.6%;
@@ -320,7 +316,7 @@
         	color: #8C94AC;
         }
         .footer_right {
-        	min-height: 40xp;
+        	min-height: 40px;
         	width: 57%;
         	margin-top: 1%;
         	margin-left: 7%;
